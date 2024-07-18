@@ -30,7 +30,13 @@
 
 ---
 
-
+#### :hammer_and_wrench:  LEARNING NOW : 
+<div align="center">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+</div>
 ---
 
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
